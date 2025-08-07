@@ -1,0 +1,14 @@
+{
+    "wiz.codePolicies.IAC Configuration": [
+        "VCS IaC policy"
+    ],
+    "wiz.codePolicies.vulnerabilities": [
+        "Default vulnerabilities policy"
+    ],
+    "wiz.codePolicies.secrets": [
+        "VCS secrets policy"
+    ],
+    "wiz.codePolicies.sensitiveData": [
+        "VCS sensitive data policy"
+    ]
+}
